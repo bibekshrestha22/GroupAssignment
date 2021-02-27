@@ -1,2 +1,1 @@
-# GroupAssignment
-Group project of Web programming
+https://bibekshrestha22.github.io/GroupAssignment/.
